@@ -1,0 +1,3 @@
+# requirements.txt
+# Created to satisfy Render's pip install step. No Python dependencies required for this project.
+# If you want to add Python dependencies later, list them here (example: flask==2.2.5)
