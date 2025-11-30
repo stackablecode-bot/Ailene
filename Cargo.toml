@@ -20,3 +20,7 @@ serde = { version = "1.0", features = ["derive"] }
 [dev-dependencies]
 # Lightweight logger for tests/dev runs
 pretty_env_logger = "0.4"
+
+[[bin]]
+name = "Ailene"
+path = "src/main.rs"
